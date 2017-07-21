@@ -2,6 +2,8 @@
 Predicate utility 
 
 <pre>
+Predicate.or=function(a,b) boolean or for predicates passed 
+Predicate.and=function(a,b) boolean and for predicates passed 
 Predicate.not=function(a) negate predicate passed 
 Predicate.condition=function(a,op,b) define a condition
 Predicate.registerOperator=function(n,f) register a new operator
