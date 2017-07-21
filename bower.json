@@ -1,0 +1,15 @@
+{
+  "name": "predicate.js",
+  "version": "1.0.0",
+  "description": "simple utility for handling predicates",
+  "main": "predicate.js",
+  "private": false,
+  "ignore": [
+
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+  
+}
